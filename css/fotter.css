@@ -1,0 +1,36 @@
+footer{
+    font-family: 'Mulish', sans-serif;
+    background-color: #A47D64;
+    height: 100px;
+    align-items: center;
+    display: flex;
+}
+
+.footer-content{
+    
+    width: 314px;
+    height: 99px;
+    left: 366px;
+    top: 714px
+
+}
+
+.social-container{
+        height: 80px;
+        width: 300px;
+        color: #000;
+        border-radius:10px;
+        display:flex;
+        align-items: center;
+        font-size: 1;
+        font-weight:200;
+        font-style:italic;   
+}
+
+.Copyright{
+    background-color: #93684C;
+    width: 77px;
+    height: 25px;
+    left: 639px;
+    top: 850px;
+}

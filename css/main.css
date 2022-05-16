@@ -1,0 +1,106 @@
+main{
+    background-color: #FCEDE3;
+}
+
+.Implementação{
+    width: 678px;
+    height: 200px;
+    left: 26px;
+    top: 131px;
+    
+
+    justify-content: left;
+    border-left: 2px;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    display: flex;
+    font-size: 2rem;
+    font-weight: 100;
+    color: #000;
+}
+
+.web-text{
+    width: 650px;
+    height: 200px;
+
+    font-size: 2rem;
+    text-align: left;
+    font-family: 'Mulish', sans-serif;
+    display: flex;
+    text-align: left;
+    font-weight: 100;
+    color: #000;
+}
+
+.Home-Office{
+    margin-top: 100px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    
+    width: 571px;
+    height: 563px;
+    left: 802px;
+    top: 131px;
+
+    background: #FFFFFF;
+    border-radius: 50px;
+}
+
+.Vantagens {
+    font-size: 2rem;
+    text-align: left;
+    font-family: 'Mulish', sans-serif;
+    display: flex;
+    font-weight: 100;
+    color: #000;
+}
+
+.frase{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Mulish', sans-serif;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #A47D64;
+}
+
+.Inauguração{
+    width: 678px;
+    height: 200px;
+    left: 26px;
+    top: 131px;
+
+    font-family: 'Mulish', sans-serif;
+    text-align: right;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    font-size: 2rem;
+    font-weight: 100;
+    color: #000;
+}
+
+.web-text2{
+    width: 650px;
+    height: 200px;
+
+    font-size: 2rem;
+    text-align: right;
+    font-family: 'Mulish', sans-serif;
+}
+
+.Escritório{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+
+    width: 467px;
+    height: 564px;
+    left: 112px;
+    top: 70px;
+    
+    background: #FFFFFF;
+    border-radius: 50px;
+}
